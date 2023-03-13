@@ -5,3 +5,7 @@ Complete los metodos de ordenamiento tanto para estructuras estaticas y dinamica
 
 Primer Test Ordenamiento
 ![](https://github.com/joselitogmartinez/Ordenamiento-Parcial1/blob/master/ordenamiento%20Test1.png)
+
+Segundo Test Ordenamiento
+![](https://github.com/joselitogmartinez/Ordenamiento-Parcial1/blob/master/Ordenamiento%20Test2.png)
+
