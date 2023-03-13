@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StaticStructureTest" project="Colecciones" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="gt.edu.umg.progra3.parcial1.StaticStructureTest" time="0.0">
+    <testcase name="ordenarTest" classname="gt.edu.umg.progra3.parcial1.StaticStructureTest" time="0.0"/>
+    <testcase name="inversaTest" classname="gt.edu.umg.progra3.parcial1.StaticStructureTest" time="0.0"/>
+    <testcase name="inversaNumerosTest" classname="gt.edu.umg.progra3.parcial1.StaticStructureTest" time="0.0"/>
+    <testcase name="ordenarNumerosTest" classname="gt.edu.umg.progra3.parcial1.StaticStructureTest" time="0.0"/>
+  </testsuite>
+</testrun>

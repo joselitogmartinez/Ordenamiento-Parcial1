@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Augusto\Desktop\ordenamiento-P3P1-main\.metadata\.plugins\org.eclipse.jdt.core
+3423387283.index
+1865797976.index
+1596501301.index
